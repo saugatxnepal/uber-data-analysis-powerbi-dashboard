@@ -1,6 +1,6 @@
 # Uber Data Analytics Dashboard (Power BI)
 
-![Dashboard Preview](Images/dashboard.jpg)
+![Dashboard Preview](Images/dashboard.png)
 
 ## Project Overview
 This project showcases an **interactive Power BI dashboard** built to analyze Uber auto-rickshaw operations. It provides deep insights into ride activity, revenue generation, customer behavior, and operational efficiency.
@@ -64,9 +64,6 @@ The dashboard enables stakeholders to monitor performance trends, identify high-
 - Lost_Bookings = CALCULATE([Booking_Count], uber[Booking Status] <> "Completed")
 - Total_Distance = SUM(uber[Ride Distance])
 - Booking_Value = SUM(uber[Booking Value])
-
-## Screenshots
-![Dashboard](images/dashboard.png)
 
 ---
 
