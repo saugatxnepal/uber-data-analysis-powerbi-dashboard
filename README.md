@@ -32,7 +32,7 @@ The dashboard enables stakeholders to monitor performance trends, identify high-
 ## Key Insights
 - **Peak Demand Trends:** Ride demand fluctuates monthly with noticeable peaks during mid-year and festive periods  
 - **Top Revenue Contributors:** Auto and Bike segments generate the highest revenue  
-- **Geographic Patterns:** Khulna and Assam emerge as top pickup and drop locations  
+- **Geographic Patterns:** Shown Top Pickup and Top Drop Locations
 - **Operational Gaps:** Significant number of lost bookings indicates potential service inefficiencies  
 - **Customer Experience:** High average ratings reflect strong service quality  
 
