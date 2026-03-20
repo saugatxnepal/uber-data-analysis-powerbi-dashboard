@@ -1,11 +1,11 @@
 # Uber Data Analytics Dashboard (Power BI)
 
-![Dashboard Preview](Images/dashboard.png)
-
 ## Project Overview
 This project showcases an **interactive Power BI dashboard** built to analyze Uber auto-rickshaw operations. It provides deep insights into ride activity, revenue generation, customer behavior, and operational efficiency.
 
 The dashboard enables stakeholders to monitor performance trends, identify high-demand areas, and make data-driven business decisions.
+
+![Dashboard Preview](Images/dashboard.png)
 
 ---
 
